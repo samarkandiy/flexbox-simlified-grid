@@ -6,3 +6,5 @@ Flexbox Simplified Grid - CSS
 flex: 1 1 0px;
 
 flex: flex-grow flex-shrink flex-basis; (0px is for IE flexbox-basis bug).
+
+Demo: http://codepen.io/samarkandiy/pen/VPoGWP
