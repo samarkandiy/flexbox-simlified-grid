@@ -1,7 +1,7 @@
 # flexbox-simlified-grid
 Flexbox Simplified Grid - CSS
 
-/* Explanation:
+## Explanation:
 
    flex: 1 1 0px;
          | | | 
@@ -16,4 +16,3 @@ Flexbox Simplified Grid - CSS
          w i i
            n s
            k
-*/ 
