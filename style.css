@@ -10,7 +10,7 @@ body {
   border: 1px solid #fff;
 }
 
-@media (min-width: 30em) {
+@media (min-width: 600px) {
   .row {
     display: flex;
   }
